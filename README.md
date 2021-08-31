@@ -1,7 +1,7 @@
 # JsonJuggler
 
 # Overview
-A tool to quickly visualize and compare mulltiple VxRail installation JSON files.  Works with 7.0.130+.  Will add versions for 7.0.101 and possibly 4.7 as time allows
+A tool to quickly visualize and compare mulltiple VxRail installation JSON files.  Works with 7.x.  Will explore 4.7 as time allows.
 
 ### Instructions
 
