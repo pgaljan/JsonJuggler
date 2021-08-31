@@ -18,17 +18,17 @@ Notes:
 
 Quickly compare top level settings between multiple JSON files.
 
+### Summary boxes
+![image](https://user-images.githubusercontent.com/11296072/131570984-45c40bfc-adb2-4194-b63a-116112bd387b.png)
+Notes:
+- Text in boxes are CSV, and can be copied out and into tabular format (on windows, at least)
+
 ## dashboard sheet
 ### Cluster level information
 ![image](https://user-images.githubusercontent.com/11296072/131400601-0ed10f6f-9111-43b7-8fa0-d3a46100a6c2.png)
 ![image](https://user-images.githubusercontent.com/11296072/131400832-5877d9b9-8166-4df6-979c-0d11e6dea8f5.png)
 
 Top level details about the cluster and when the file was created
-
-### Summary boxes
-![image](https://user-images.githubusercontent.com/11296072/131570984-45c40bfc-adb2-4194-b63a-116112bd387b.png)
-Notes:
-- Text in boxes are CSV, and can be copied out and into tabular format (on windows, at least)
 
 ### VLAN Details
 ![image](https://user-images.githubusercontent.com/11296072/131401168-cfcdfc76-ce2e-432b-878b-7b6875f6640e.png)
