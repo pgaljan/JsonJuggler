@@ -12,11 +12,11 @@ Place log files in c:\logs\VxRail\JSON (or change the data source in power query
 ![image](https://github.com/pgaljan/JsonJuggler/blob/main/SearchExample.gif)
 
 Notes:  
-- search string operates against the entire JSON file
-- Keywords are not necessary for search, but can serve to limit your results to specific paramters
+- Search string operates against the entire JSON file and file name
+- Keywords are not necessary for search, but can serve to limit your results to specific parameters
 - Drop downs on the respective worksheets are linked to the search string filters
 - Keyword search follows [parameter]:[searchvalue]
-- Most parameters are available in the tables, but additonal parameters are available for searching.  The list of hidden paramters are shown in Note near the search box.
+- Most parameters names are available in the tables, but additonal parameters are available for searching.  The list of hidden paramters are shown in the Excel Note near the search box.
 
 ## diff sheet
 ![image](https://user-images.githubusercontent.com/11296072/131400417-7e072c1e-59d9-4e85-b970-dafad09db14e.png)
