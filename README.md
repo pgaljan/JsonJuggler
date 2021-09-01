@@ -9,14 +9,11 @@ A tool to quickly visualize and compare mulltiple VxRail installation JSON files
 Place log files in c:\logs\VxRail\JSON (or change the data source in power query) and refresh the query.
 
 ## Search support 
-![image](https://github.com/pgaljan/JsonJuggler/blob/main/SearchExample.gif)
+![image](https://user-images.githubusercontent.com/11296072/131690010-3544d649-12a2-4310-8bc0-de821e95641d.png)
 
-Notes:  
+**Notes**:  
 - Search string operates against the entire JSON file and file name
-- Keywords are not necessary for search, but can serve to limit your results to specific parameters
 - Drop downs on the respective worksheets are linked to the search string filters
-- Keyword search follows [parameter]:[searchvalue]
-- Most parameters names are available in the tables, but additonal parameters are available for searching.  The list of hidden paramters are shown in the Excel Note near the search box.
 
 ## diff sheet
 ![image](https://user-images.githubusercontent.com/11296072/131400417-7e072c1e-59d9-4e85-b970-dafad09db14e.png)
@@ -26,7 +23,7 @@ Quickly compare top level settings between multiple JSON files.
 ### Summary boxes
 ![image](https://user-images.githubusercontent.com/11296072/131570984-45c40bfc-adb2-4194-b63a-116112bd387b.png)
 
-Notes:
+**Notes**:
 - Text in boxes are CSV, and can be copied out and into tabular format (on windows, at least)
 
 ## dashboard sheet
