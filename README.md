@@ -9,11 +9,13 @@ A tool to quickly visualize and compare mulltiple VxRail installation JSON files
 Place log files in c:\logs\VxRail\JSON (or change the data source in power query) and refresh the query.
 
 ## Search support 
-![image](https://user-images.githubusercontent.com/11296072/131570821-b4fca8dc-43f9-4eb7-bcb8-6745ce5def21.png)
+![image](https://user-images.githubusercontent.com/11296072/131599837-f1aa7d72-fd79-4561-ad27-5c96389a42bf.png)
 
 Notes:  
 - search string operates against the entire JSON file
-- Drop downs on the respective worksheets are linked to the search string filter 
+- Drop downs on the respective worksheets are linked to the search string filters
+- Keyword search follows [parameter]:[searchvalue]
+- Most parameters are available in the tables, but additonal parameters are available for searching.  The list of hidden paramters are shown in Note near the search box.
 
 ## diff sheet
 ![image](https://user-images.githubusercontent.com/11296072/131400417-7e072c1e-59d9-4e85-b970-dafad09db14e.png)
