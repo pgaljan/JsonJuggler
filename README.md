@@ -9,7 +9,7 @@ A tool to quickly visualize and compare mulltiple VxRail installation JSON files
 Place log files in c:\logs\VxRail\JSON (or change the data source in power query) and refresh the query.
 
 ## Search support 
-![image](https://user-images.githubusercontent.com/11296072/131694537-52b48838-e411-488b-8ef8-9a1ecc8f208e.png)
+![image](https://user-images.githubusercontent.com/11296072/131723605-df3b392b-cfb6-4378-904e-1907313bf452.png)
 
 **Notes**:  
 - Search string operates against the entire JSON file and file name
