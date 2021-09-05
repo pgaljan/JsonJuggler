@@ -24,7 +24,7 @@ Quickly compare top level settings between multiple JSON files.
 ![image](https://user-images.githubusercontent.com/11296072/131570984-45c40bfc-adb2-4194-b63a-116112bd387b.png)
 
 **Notes**:
-- Text in boxes are CSV, and can be copied out and into tabular format (on windows, at least)
+- Text in boxes are tab delimited, and can be copied out and into tabular format (on windows, at least)
 
 ## dashboard sheet
 ### Cluster level information
